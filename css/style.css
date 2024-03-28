@@ -64,7 +64,9 @@ h6 {
     display: flex;
     column-gap:60px;
 }
-
+.nav__link:hover{
+    color:#7875FE ;
+}
 .vigets{
     display: flex;
     column-gap:30px;
@@ -115,6 +117,10 @@ h6 {
     margin-bottom: 40px;
 }
 
+.hero-btn:hover{
+    background-color:#7875fe;
+    color: white;
+}
 .stages{
     background-color: #C0C0C0;
     padding-top:90px ;
